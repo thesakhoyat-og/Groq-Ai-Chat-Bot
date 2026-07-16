@@ -31,9 +31,16 @@ The chatbot takes user input from the terminal, sends the message to a Groq lang
 8. The assistant's response is added to the conversation history.
 9. The response is printed in the terminal.
 
+
+Author 
+Sakhoyat Hossain Siam
+
 ## Requirements
 
 Before running this project, install the Groq Python package:
 
+
+
 ```bash
 pip install groq
+
