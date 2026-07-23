@@ -30,7 +30,16 @@ The chatbot takes user input from the terminal, sends the message to a Groq lang
 7. The model returns a response.
 8. The assistant's response is added to the conversation history.
 9. The response is printed in the terminal.
-
+    
+##Current Limitations
+Conversation history exists only while the program is running
+Messages are not stored in a file or database
+Long conversations may increase token usage
+The chatbot requires an internet connection
+The chatbot depends on Groq API availability
+There is no graphical user interface
+There is no user authentication
+The chatbot does not currently support file uploads
 
 Author 
 Sakhoyat Hossain Siam
