@@ -1,4 +1,10 @@
+# Xender AI Chatbot
 
+Xender is a beginner-friendly, terminal-based AI chatbot built with Python and the Groq API.
+
+The program accepts user input through the command line, sends the message to a Groq-hosted language model, receives an AI-generated response, and displays the result in the terminal.
+
+It also maintains a conversation history, allowing the model to respond using the context of previous messages.
 
 ---
 
