@@ -14,7 +14,7 @@ Xender demonstrates how Python can be connected to a large language model throug
 
 The chatbot runs inside the terminal and uses a continuous input loop so users can have an ongoing conversation with the AI assistant.
 
-Each user message and assistant response is stored in a list and sent back to the model with every request. This allows the chatbot to remember earlier parts of the conversation during the current session.
+Each user message and assistant response is stored in a list and sent back to the model with every request. This allows the chatbot to remember earlier parts of the conversation during the current session
 
 ---
 
